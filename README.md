@@ -7,4 +7,5 @@ https://bewildered-dog-twill.cyclic.app/
 
 <h1 align='center'>
 
-![image](https://github.com/businesstechhindi/airbnb-clone-old/assets/133948484/1ce4b466-05f6-42cc-aaad-9e9f5deafee5)
+![image](https://github.com/businesstechhindi/airbnb-clone-old/assets/133948484/d3573c1a-f104-4c88-9a60-b2019a466629)
+
